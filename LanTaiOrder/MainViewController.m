@@ -27,7 +27,6 @@
 {
     self.navigationController.navigationBar.hidden = NO;
     [super viewDidLoad];
-    // Do any additional setup after loading the view from its nib.
 }
 
 - (void)didReceiveMemoryWarning
